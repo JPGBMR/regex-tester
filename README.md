@@ -1,5 +1,7 @@
 # Regex Tester
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-jpgbmr.github.io-58a6ff?style=flat-square)](https://jpgbmr.github.io/regex-tester/)
+
 Live regex tester with match highlighting and explanations
 
 ## Tech Stack
